@@ -2,6 +2,8 @@
 
 Find places anywhere with natural language queries through Claude!
 
+![Demo](demo.png)
+
 ## ✨ Quick Start
 
 1. **Install uv** (if you haven't)
